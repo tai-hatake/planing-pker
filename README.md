@@ -3,7 +3,7 @@ planing-poker　is sprint tool.
 
 It is necessary to determine point of tasks in sprint planing.
 
-
+<img src="https://user-images.githubusercontent.com/32874319/43656350-19c54f7c-978d-11e8-8340-466226a95755.png" width="300px">
 
 ## Build Setup
 
