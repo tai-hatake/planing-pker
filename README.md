@@ -1,6 +1,9 @@
-# planing-pocker
+# planing-poker
+planing-poker　is sprint tool.
 
-> Nuxt.js project
+It is necessary to determine point of tasks in sprint planing.
+
+
 
 ## Build Setup
 
